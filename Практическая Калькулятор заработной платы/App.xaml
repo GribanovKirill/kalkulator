@@ -1,0 +1,9 @@
+﻿<Application x:Class="Практическая_Калькулятор_заработной_платы.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Практическая_Калькулятор_заработной_платы"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
